@@ -1,4 +1,4 @@
-# Law-as-Code: Compliance-as-a-Service for Child Digital Safety
+# Compliance-as-a-Service for Child Digital Safety
 
 ## The Problem Every Platform Faces
 
